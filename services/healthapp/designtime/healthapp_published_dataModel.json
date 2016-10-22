@@ -1,0 +1,7 @@
+{
+  "description" : "healthapp",
+  "draft" : false,
+  "name" : "healthapp",
+  "packageName" : "com.incredible_hulk.healthapp",
+  "tables" : [ ]
+}

@@ -1,22 +1,25 @@
-[
-  {
-    "name": "Common",
-    "type": "PARTIAL",
-    "params" : [ ]
-  },
-  {
-    "name": "Login",
-    "type": "PAGE",
-    "params" : [ ]
-  },
-  {
-    "name": "Main",
-    "type": "PAGE",
-    "params" : [ ]
-  },
-  {
-    "name": "leftnav",
-    "type": "LEFTNAV",
-    "params" : [ ]
-  }
-]
+[ {
+  "name" : "Common",
+  "type" : "PARTIAL",
+  "params" : [ ]
+}, {
+  "name" : "Login",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "Main",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "SetGoals",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "friendslist",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "leftnav",
+  "type" : "LEFTNAV",
+  "params" : [ ]
+} ]
