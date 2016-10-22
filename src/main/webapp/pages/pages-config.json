@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Common",
+    "type": "PARTIAL",
+    "params" : [ ]
+  },
+  {
+    "name": "Login",
+    "type": "PAGE",
+    "params" : [ ]
+  },
+  {
+    "name": "Main",
+    "type": "PAGE",
+    "params" : [ ]
+  },
+  {
+    "name": "leftnav",
+    "type": "LEFTNAV",
+    "params" : [ ]
+  }
+]
